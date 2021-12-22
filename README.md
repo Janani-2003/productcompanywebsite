@@ -463,8 +463,7 @@ body {
 
 ### Contact:
 
-
-![output](./images/conatct.PNG)
+![output](./images/contact.png)
 
 ## Result:
 
