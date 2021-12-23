@@ -450,20 +450,20 @@ body {
 
 ### Home Page:
 
-![output](./images/home.png)
+![output](./images/home1.png)
 
 ### Product:
 
-![output](./images/product.png)
+![output](./images/product1.png)
 
 ### People:
 
 
-![output](./images/people.png)
+![output](./images/people1.png)
 
 ### Contact:
 
-![output](./images/contact.png)
+![output](./images/contact1.png)
 
 ## Result:
 
